@@ -415,18 +415,19 @@ img {
 	color: #e25c67;
 	line-height: 1;
 }
-.actions p strong{display: block;font-family: 'Dancing Script', cursive;
+.actions p strong{display: block;font-family: 'Dancing Script', cursive;letter-spacing:12px;
 	text-align: center;
 	font-weight: bold;
 	font-style: normal;
-	font-size: 30px;
+	font-size: 32px;
 	color: #674ea7;}
 	.actions p span{color: #874562;
 		font-weight: 700;
-		font-size: 20px;
+		font-size: 22px;
 		display: block;
 		text-transform: capitalize;
-		font-family: 'Arvo', serif;}
+		font-family: 'Dancing Script', cursive;}
+.actions p span em{font-size:22px;}
 .dance-med {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bolder;
@@ -639,8 +640,8 @@ a {
 	display: none;
 }
 .actions p strong{margin-bottom:10px;}
-.actions p span{margin: 2px auto;}
-.actions p span em{font-style: normal;}
+.actions p span{margin: 2px auto;font-family: 'Dancing Script', cursive;}
+.actions p span em{font-style: normal;font-family: 'Dancing Script', cursive;}
 .actions {
 	display: flex;
 	flex-direction: column;
