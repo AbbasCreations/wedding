@@ -664,5 +664,7 @@ a {
 	.title p{margin-bottom: 0px;}
 	.actions p strong{font-size: 24px;}
 	.actions p span{font-size: 15px;}
+	.overlay .inner p{font-size:26px;text-align:center;}
+
 
 }
