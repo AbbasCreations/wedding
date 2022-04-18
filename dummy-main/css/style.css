@@ -664,7 +664,8 @@ a {
 	.title p{margin-bottom: 0px;}
 	.actions p strong{font-size: 24px;}
 	.actions p span{font-size: 15px;}
-	.overlay .inner p{font-size:26px;text-align:center;display:block!important;margin-bottom:30px;}
+	.overlay .inner{padding:0px;}	
+.overlay .inner p{font-size:25px;text-align:center;display:block!important;margin-bottom:30px;}
 
 
 }
